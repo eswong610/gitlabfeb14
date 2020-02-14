@@ -1,16 +1,18 @@
-p, button, input {
+p,
+button,
+input {
   font-family: 'Courier New', Courier, monospace;
   font-size: 30px;
 }
 
-body{
+body {
   background-color: grey;
 }
 
-.good{
+.good {
   color: green;
 }
 
-.bad{
+.bad {
   color: red;
 }
